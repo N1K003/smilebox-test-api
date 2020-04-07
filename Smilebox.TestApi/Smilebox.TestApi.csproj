@@ -33,7 +33,7 @@
     <ProjectReference Include="..\Smilebox.BusinessLogic\Smilebox.BusinessLogic.csproj" />
     <ProjectReference Include="..\Smilebox.Common\Smilebox.Common.csproj" />
     <ProjectReference Include="..\Smilebox.Data.Contracts\Smilebox.Data.Contracts.csproj" />
-    <ProjectReference Include="..\Smilebox.DataAccess\Smilebox.Data.EntityFramework.csproj" />
+    <ProjectReference Include="..\Smilebox.Data.EntityFramework\Smilebox.Data.EntityFramework.csproj" />
   </ItemGroup>
 
   <Target Name="PrepublishScript" BeforeTargets="PrepareForPublish">

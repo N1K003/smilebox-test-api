@@ -13,7 +13,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentatio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Smilebox.Common", "Smilebox.Common\Smilebox.Common.csproj", "{AF1DCD24-8F0E-4543-ABD6-7D575B19E10D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smilebox.Data.EntityFramework", "Smilebox.DataAccess\Smilebox.Data.EntityFramework.csproj", "{C1DAC578-C855-417C-A3D8-4765033081EE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smilebox.Data.EntityFramework", "Smilebox.Data.EntityFramework\Smilebox.Data.EntityFramework.csproj", "{C1DAC578-C855-417C-A3D8-4765033081EE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smilebox.Data.Contracts", "Smilebox.Data.Contracts\Smilebox.Data.Contracts.csproj", "{4D218C09-88BB-423D-8F58-ECDA3CEEF9DE}"
 EndProject
